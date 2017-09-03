@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTesting", "CSharpTesting\CSharpTesting.csproj", "{D57E7381-B7F6-48B8-8109-D4540ED73A14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{230CA291-DDFF-4C70-9555-0C95FFD12DA3}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57E7381-B7F6-48B8-8109-D4540ED73A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57E7381-B7F6-48B8-8109-D4540ED73A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57E7381-B7F6-48B8-8109-D4540ED73A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57E7381-B7F6-48B8-8109-D4540ED73A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
